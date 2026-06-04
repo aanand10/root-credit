@@ -6,7 +6,8 @@ A pixel-perfect, production-grade multi-step account creation wizard built from 
 
 ## Live Demo
 
-👉 **[Live Demo on Vercel](https://account-creation-flow-placeholder.vercel.app/)** *(Replace with your deployment URL)*
+👉 **[Live Demo on Vercel](https://root-credit-lilac.vercel.app/)**
+👉 **[GitHub Repository](https://github.com/aanand10/root-credit)**
 
 ---
 
